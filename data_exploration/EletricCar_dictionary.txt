@@ -1,0 +1,27 @@
+id - Unique identifier
+Make - brand of the car
+link - source url
+City: Cold Weather - range in Km under cold weather conditions (-10 degrees) in cities
+Highway: Cold Weather - range in Km under cold weather conditions (-10 degrees) on highways
+Combined: Cold Weather - range in Km under cold weather conditions (-10 degrees) combined
+City: Mild Weather - range in Km under mild weather conditions (23 degrees) in cities
+Highway: Mild Weather - range in Km under mild weather conditions (23 degrees) on highways
+Combined: Mild Weather - range in Km under mild weather conditions (23 degrees) combined
+Acceleration 0: 100 km/h - acceleration from 0 to 100 Km per hr in seconds
+Top Speed - Top speed in Km/h
+Electric Range - Advertised electric range in Km
+Total Power -
+Total Torque -
+Drive - Rear, Front, AWD 
+Battery Capacity - Total capacity of the battery in KW
+Charge Power -
+Charge Speed -
+Fastcharge Speed -
+Length - Car lengths in mm
+Width - Car width in mm
+Height - Car height in mm
+Wheelbase - Wheelbase in mm
+Gross Vehicle Weight (GVWR) - Gross weight of the car in Kg
+Max. Payload -
+Cargo Volume - Cargo volume of the car in litters
+Seats - Number of seats
